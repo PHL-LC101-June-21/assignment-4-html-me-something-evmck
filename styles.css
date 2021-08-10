@@ -1,1 +1,26 @@
-/* Write your CSS here! */
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 8px;
+	display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+#mainHeading {
+    color: red;
+}
+
+html {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+  background-image: url("https://lh3.googleusercontent.com/proxy/oJ_2jTXl9D8Lw0YUre07A0OmhXGbWVKGjiJG5PfGF0m8EcaAM-nkqwM6OiW01LXxoOWpGujTQPpbomqBu7V14KLAUFr5opv57EL59Ubw");
+  background-repeat: repeat;
+}
+
+.funParagraph {
+    color: green;
+}
